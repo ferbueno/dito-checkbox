@@ -1,0 +1,17 @@
+{
+  "name": "dito-checkbox",
+  "main": "dito-checkbox.html",
+  "resolvers": [ "bower-github-subdirectory-resolver" ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0",
+    "paper-checkbox": "PolymerElements/paper-checkbox#2.0-preview"
+  },
+  "devDependencies": {
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2.0.0",
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  },
+  "resolutions": {
+    "polymer": "^2.0.0"
+  }
+}
